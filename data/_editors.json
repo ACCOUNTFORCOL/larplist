@@ -2,26 +2,11 @@
     {
         "role": "owner",
         "name": "cbf",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": ""
     },
     {
         "role": "admin",
         "name": "Flamewall",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": ""
     }
 ]
